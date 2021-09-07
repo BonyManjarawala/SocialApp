@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialMediaApp/RegisterVC.swift"
+            timestampString = "650972111.1384341"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "label"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocialMediaApp.RegisterVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SocialMediaApp.RegisterVC"
+                  moduleName = "SocialMediaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Desktop/SocialMediaApp/SocialMediaApp/RegisterVC.swift"
+                  timestampString = "650972111.29211"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocialMediaApp.RegisterVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SocialMediaApp.RegisterVC&gt;"
+                  moduleName = "SocialMediaApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Desktop/SocialMediaApp/SocialMediaApp/RegisterVC.swift"
+                  timestampString = "650972111.3423719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "123">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
